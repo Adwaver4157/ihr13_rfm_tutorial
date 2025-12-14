@@ -2,7 +2,7 @@
 
 ## スライド資料
 
-[第13回ロボット基盤モデルチュートリアル資料スライド](https://docs.google.com/presentation/d/1X1k9J5v2bXK3JH1Y2Z3A4B5C6D7E8F9G0H1I2J3K4L5M/edit?usp=sharing)
+[第13回ロボット基盤モデルチュートリアル資料スライド(pdf)](https://drive.google.com/file/d/1zyGTDk9U01jaibdrEqyfYuZSIo4mMScM/view?usp=sharing)
 
 ## ハンズオン
 Google Colabで実行できるハンズオン
