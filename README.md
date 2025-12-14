@@ -12,3 +12,9 @@ lerobot_tutorial.ipynbを対象に以下の方法を適用してください。
 
 [ipynbをGoogle Driveに保存して実行する方法](https://qiita.com/ongaeshi/items/7611dc6f00484d562c47)
 
+colabを開いた後に最後必ず Drive to Copy to Drive をクリックして自分のGoogle Driveに保存してください。
+
+画像右下のボタン
+![最後にdriveにcopyする時の押すボタン](figs/colab_copy.png)
+
+
